@@ -20,3 +20,24 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+# Environments
+.venv/
+venv/
+ENV/
+env/
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+# PyCharm / VS Code settings
+.idea/
+.vscode/
+# OS generated files
+.DS_Store
+Thumbs.db
+# Local environment variables
+.env
