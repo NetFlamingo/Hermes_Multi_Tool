@@ -27,8 +27,9 @@ ENG - Information/Rules
 ### Инструкция
 1. **Скачайте проект:**
    ```bash
-   git clone [https://github.com/NetFlamingo/hermes.git](https://github.com/NetFlamingo/hermes.git)
-   cd hermes
+   git clone https://github.com/NetFlamingo/Hermes_Multi_Tool
+   cd Hermes_Multi_Tool
+   python HermesPro.py
 
 RU Автор: NetFlamingo | Telegram> @osintflowdetected
 ---------------------------------------------------
