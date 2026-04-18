@@ -30,6 +30,6 @@ ENG - Information/Rules
    git clone [https://github.com/NetFlamingo/hermes.git](https://github.com/NetFlamingo/hermes.git)
    cd hermes
 
-RU Автор: NetFlamingo | Telegram> @net_researcher
+RU Автор: NetFlamingo | Telegram> @osintflowdetected
 ---------------------------------------------------
-ENG Autor: NetFlamingo | Telegram> @net_researcher
+ENG Autor: NetFlamingo | Telegram> @osintflowdetected
